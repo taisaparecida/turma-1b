@@ -1,6 +1,7 @@
-body[
-    #000000
-]
+body{
+    text-align:center;
+}
 
-p[
-     
+p {
+    text-font: 20px;
+}
